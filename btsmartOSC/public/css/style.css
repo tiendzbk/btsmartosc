@@ -1,0 +1,26 @@
+.pull-left {
+  float: left !important;
+}
+
+.pull-right {
+  float: right !important;
+}
+
+.product-create .children-simple-group {
+  padding: 10px;
+  border: 1px solid lightgrey;
+}
+
+.product-create .children-simple-group .media .media-img {
+  width: 20%;
+  margin-right: 20px;
+}
+
+.product-create .children-simple-group .media .media-img img {
+  width: 100%;
+}
+
+.product-create .children-simple-group .media .media-body p {
+  margin-bottom: 0px;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,30 @@
+.pull-left {
+    float: left !important;
+}
+
+.pull-right {
+    float: right !important;
+}
+
+//CSS for product create
+.product-create {
+    .children-simple-group {
+        padding: 10px;
+        border: 1px solid lightgrey;
+        .media {
+            .media-img {
+                width: 20%;
+                margin-right: 20px; 
+                img {
+                    width: 100%;
+                }
+            }
+
+            .media-body {
+                p {
+                    margin-bottom: 0px;
+                }
+            }
+        }
+    }
+}
